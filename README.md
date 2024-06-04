@@ -1,0 +1,1 @@
+This is an online shop project where user can place order of different kinds of cakes and and it will display the amount of the placed order along with the delivery charges if opted home delivery by the user. 
